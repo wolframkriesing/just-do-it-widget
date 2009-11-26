@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget id="just-do-it" version="0.0.1" network="public">
+  <widgetname>Just do it</widgetname>
+  <width>300</width>
+  <height>300</height>
+  
+  <description>The simplest TODO widget ever.</description>
+  
+  <author>
+    <name>Wolfram Kriesing</name>
+    <organization>uxebu</organization>
+    <email>wk@uxebu.com</email>
+  </author>
+</widget>
